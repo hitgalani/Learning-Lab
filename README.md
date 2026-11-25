@@ -1,4 +1,4 @@
-﻿# Learning-Lab
+# Learning-Lab
 
 [![GitHub](https://img.shields.io/badge/GitHub-Learning--Lab-181717?logo=github)](https://github.com/hitgalani/Learning-Lab)
 ![Python](https://img.shields.io/badge/Python-Practice-3776AB?logo=python&logoColor=white)
@@ -14,24 +14,24 @@ A personal learning workspace for programming fundamentals, Python, object-orien
 | Python fundamentals and OOP | Built-ins, arithmetic, classes, inheritance, stacks, queues, sorting and tree exercises | [Python/](Python/) |
 | CS50 Python | Functions, variables, input, formatting and scope practice | [CS50/](CS50/) |
 | CS50 Artificial Intelligence | DFS, BFS, greedy search, A*, minimax and alpha-beta practice | [CS50/](CS50/) |
-| Machine Learning | EDA, linear regression, logistic regression, One-vs-Rest and softmax examples | [Machine_Learning/](Machine_Learning/) |
+| Machine Learning | EDA, linear regression, logistic regression, One-vs-Rest and softmax examples | [Machine-Learning/](Machine-Learning/) |
 | NeuralNine | Python beginner tutorial example | [NeuralNine/](NeuralNine/) |
-| Git and GitHub | Login-page project and Git practice notes | [Git GitHub Learning Lab/](Git%20GitHub%20Learning%20Lab/) |
+| Git and GitHub | Login-page project and Git practice notes | [Git-GitHub-Learning-Lab/](Git-GitHub-Learning-Lab/) |
 | Web Development | HTML, CSS, Bootstrap, student registration and college-site projects | [Web/](Web/) |
 | R Programming | CSV data, aggregation, plots and SQLite examples | [R/](R/) |
-| Washera Academy | Hello World, built-ins and Python operators | [Washera Academy/](Washera%20Academy/) |
+| Washera Academy | Hello World, built-ins and Python operators | [Washera-Academy/](Washera-Academy/) |
 
 ## Repository Structure
 
 ```text
 Learning-Lab/
 ├── CS50/
-├── Git GitHub Learning Lab/
-├── Machine_Learning/
+├── Git-GitHub-Learning-Lab/
+├── Machine-Learning/
 ├── NeuralNine/
 ├── Python/
 ├── R/
-├── Washera Academy/
+├── Washera-Academy/
 ├── Web/
 ├── LEARNING-TRACKER.md
 ├── requirements.txt
@@ -84,7 +84,7 @@ Learning-Lab/
 - [Learning progress tracker](LEARNING-TRACKER.md)
 - [CS50 learning materials](CS50/README.md)
 - [NeuralNine materials](NeuralNine/README.md)
-- [Git and GitHub practice](Git%20GitHub%20Learning%20Lab/README.md)
+- [Git and GitHub practice](Git-GitHub-Learning-Lab/README.md)
 
 ## Git Workflow
 

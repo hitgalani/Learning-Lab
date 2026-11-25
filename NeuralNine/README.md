@@ -8,7 +8,7 @@ This folder contains a simple NeuralNine Python beginner tutorial example.
 
 | File | Topic |
 |---|---|
-| [`Python Beginner Tutorial/00.py`](Python%20Beginner%20Tutorial/00.py) | Python Hello World |
+| [`Python-Beginner-Tutorial/00.py`](Python-Beginner-Tutorial/00.py) | Python Hello World |
 
 ## Learning status
 

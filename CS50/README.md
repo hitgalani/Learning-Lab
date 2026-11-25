@@ -12,10 +12,10 @@ This folder contains practice from CS50 Python and CS50 Artificial Intelligence 
 
 | Course | Existing file | Topics found |
 |---|---|---|
-| CS50 Python | [`00.py`](CS50%20Python/00.py) | Hello World, input, variables, f-strings, string methods, integer and float conversion, functions, scope and return values |
-| CS50 Python | [`notes.md`](CS50%20Python/notes.md) | Lecture 0 summary, review questions and problem-set hints |
-| CS50 AI | [`00.py`](CS50%20Artificial%20Intelligence%20with%20Python/00.py) | DFS, BFS, greedy search, A*, minimax, alpha-beta and depth-limited minimax |
-| CS50 AI | [`notes.md`](CS50%20Artificial%20Intelligence%20with%20Python/notes.md) | Search concepts, heuristic search and adversarial-search notes |
+| CS50 Python | [`00.py`](CS50-Python/00.py) | Hello World, input, variables, f-strings, string methods, integer and float conversion, functions, scope and return values |
+| CS50 Python | [`notes.md`](CS50-Python/notes.md) | Lecture 0 summary, review questions and problem-set hints |
+| CS50 AI | [`00.py`](CS50-Artificial-Intelligence-with-Python/00.py) | DFS, BFS, greedy search, A*, minimax, alpha-beta and depth-limited minimax |
+| CS50 AI | [`notes.md`](CS50-Artificial-Intelligence-with-Python/notes.md) | Search concepts, heuristic search and adversarial-search notes |
 
 ## Learning status
 

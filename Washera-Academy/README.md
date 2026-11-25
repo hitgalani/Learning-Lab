@@ -9,7 +9,7 @@ This folder contains introductory Python exercises.
 | File | Topics |
 |---|---|
 | [`Hello.py`](Hello.py) | Hello World |
-| [`Built functions.py`](Built%20functions.py) | Built-in functions, variables and input |
+| [`Built_functions.py`](Built_functions.py) | Built-in functions, variables and input |
 | [`Operations.py`](Operations.py) | Arithmetic, types, comparisons, identity, membership and logical operators |
 | [`Notes.md`](Notes.md) | Python and data-science library notes |
 

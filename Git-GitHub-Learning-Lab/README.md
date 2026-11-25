@@ -8,8 +8,8 @@ This folder contains a small web-based login practice project and acts as a loca
 
 | File | Purpose |
 |---|---|
-| [`Login (demopice)/index.html`](Login%20(demopice)/index.html) | Login-page HTML structure |
-| [`Login (demopice)/style.css`](Login%20(demopice)/style.css) | Login-page styling |
+| [`Login-demopice/index.html`](Login-demopice/index.html) | Login-page HTML structure |
+| [`Login-demopice/style.css`](Login-demopice/style.css) | Login-page styling |
 
 ## Current topics found
 
