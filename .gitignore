@@ -41,3 +41,6 @@ dist/
 .coverage
 htmlcov/
 
+
+# Local documentation backups
+.backup-docs/
