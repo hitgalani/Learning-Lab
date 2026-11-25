@@ -1,37 +1,44 @@
-# Keep this personal guide out of the repository
-self.md
-
-# Python virtual environment
-venv/
-.venv/
-env/
-ENV/
-
-# Python cache and build files
+# Python
 __pycache__/
 *.py[cod]
-.pytest_cache/
-*.egg-info/
-build/
-dist/
+*.pyd
 
-# Secrets and environment variables (never upload these)
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
 .env
-.env.local
-*.key
-secrets.*
+.env.*
+!.env.example
 
 # Jupyter
 .ipynb_checkpoints/
 
-# Editor files
+# Logs
+*.log
+logs/
+
+# IDE
 .vscode/
 .idea/
 
-# System junk files
+# Operating system
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Logs and local databases
-*.log
-*.sqlite3
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Test and cache files
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+Notes.md
