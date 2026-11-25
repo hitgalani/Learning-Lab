@@ -44,3 +44,12 @@ htmlcov/
 
 # Local documentation backups
 .backup-docs/
+
+# Generated course data
+employees.csv
+stud.csv
+library.csv
+sports.csv
+order.csv
+customer.db
+data.db

@@ -221,7 +221,7 @@ print("\n===== IDENTITY OPERATORS =====")
 # Use == when you want to compare values.
 
 print("1 == 1:", 1 == 1)
-print("1 is not 2:", 1 is not 2)
+print("1 != 2:", 1 != 2)
 
 # For integer values, use == for numerical comparisons.
 print("4 == 2 ** 2:", 4 == 2 ** 2)

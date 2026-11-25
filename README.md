@@ -1,29 +1,31 @@
 ﻿# Learning-Lab
 
-**My journey from programming fundamentals to Artificial Intelligence and Software Development.**
+[![GitHub](https://img.shields.io/badge/GitHub-Learning--Lab-181717?logo=github)](https://github.com/hitgalani/Learning-Lab)
+![Python](https://img.shields.io/badge/Python-Practice-3776AB?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-Web-E34F26?logo=html5&logoColor=white)
+![R](https://img.shields.io/badge/R-Practice-276DC3?logo=r&logoColor=white)
 
-Welcome to my personal learning repository! This is where I organize my programming courses, notes, experiments, coding exercises, and projects.
+A personal learning workspace for programming fundamentals, Python, object-oriented programming, CS50, artificial intelligence, machine learning, web development, R, Git, and GitHub.
 
 ## Learning Areas
 
-| Area | Description | Folder |
+| Area | Existing work | Folder |
 |---|---|---|
-| Python | Fundamentals, functions, OOP and practice | `Python/` |
-| CS50 | Python and Artificial Intelligence courses | `CS50/` |
-| Machine Learning | ML concepts and Python experiments | `Machine_Learning/` |
-| NeuralNine | Python beginner tutorials | `NeuralNine/` |
-| Git & GitHub | Version control and GitHub practice | `Git GitHub Learning Lab/` |
-| Web Development | HTML, CSS and Bootstrap | `Web/` |
-| R Programming | R language practice | `R/` |
-| Washera Academy | Programming exercises and notes | `Washera Academy/` |
-| CodeWithHarry | Course learning materials | `CodeWithHarry/` |
+| Python fundamentals and OOP | Built-ins, arithmetic, classes, inheritance, stacks, queues, sorting and tree exercises | [Python/](Python/) |
+| CS50 Python | Functions, variables, input, formatting and scope practice | [CS50/](CS50/) |
+| CS50 Artificial Intelligence | DFS, BFS, greedy search, A*, minimax and alpha-beta practice | [CS50/](CS50/) |
+| Machine Learning | EDA, linear regression, logistic regression, One-vs-Rest and softmax examples | [Machine_Learning/](Machine_Learning/) |
+| NeuralNine | Python beginner tutorial example | [NeuralNine/](NeuralNine/) |
+| Git and GitHub | Login-page project and Git practice notes | [Git GitHub Learning Lab/](Git%20GitHub%20Learning%20Lab/) |
+| Web Development | HTML, CSS, Bootstrap, student registration and college-site projects | [Web/](Web/) |
+| R Programming | CSV data, aggregation, plots and SQLite examples | [R/](R/) |
+| Washera Academy | Hello World, built-ins and Python operators | [Washera Academy/](Washera%20Academy/) |
 
 ## Repository Structure
 
 ```text
 Learning-Lab/
 ├── CS50/
-├── CodeWithHarry/
 ├── Git GitHub Learning Lab/
 ├── Machine_Learning/
 ├── NeuralNine/
@@ -32,50 +34,69 @@ Learning-Lab/
 ├── Washera Academy/
 ├── Web/
 ├── LEARNING-TRACKER.md
+├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
 
 ## Learning Roadmap
 
-- [ ] Strengthen Python fundamentals
-- [ ] Practice functions and object-oriented programming
-- [ ] Complete Python exercises
-- [ ] Study CS50 Python
-- [ ] Study CS50 Artificial Intelligence
-- [ ] Learn Machine Learning fundamentals
-- [ ] Practice HTML and CSS
-- [ ] Improve Git and GitHub skills
-- [ ] Build practical programming projects
+### Foundations
 
-## Tools and Technologies
+- [ ] Strengthen Python fundamentals
+- [ ] Practice functions and classes
+- [ ] Continue data structures and algorithms exercises
+- [ ] Improve R data-analysis practice
+
+### Artificial Intelligence
+
+- [ ] Continue CS50 AI search topics
+- [ ] Study knowledge representation and machine learning concepts
+- [ ] Complete practical AI experiments
+
+### Web Development
+
+- [ ] Improve HTML semantics and accessibility
+- [ ] Practice responsive CSS and Bootstrap
+- [ ] Build JavaScript interactions backed by clear project documentation
+
+### Professional Practice
+
+- [ ] Use focused Git branches
+- [ ] Add reproducible environments
+- [ ] Add tests around reusable algorithms and models
+
+## Technologies
 
 - Python
 - R
-- HTML
-- CSS
+- HTML and CSS
 - Bootstrap
-- Git
-- GitHub
+- JavaScript
+- NumPy, pandas, Matplotlib and Seaborn
+- scikit-learn
+- SQLite
+- Git and GitHub
 - Visual Studio Code
 
-## Progress Tracking
+## Projects and Notes
 
-See [LEARNING-TRACKER.md](LEARNING-TRACKER.md) to follow my learning activities, goals, and completed topics.
+- [Learning progress tracker](LEARNING-TRACKER.md)
+- [CS50 learning materials](CS50/README.md)
+- [NeuralNine materials](NeuralNine/README.md)
+- [Git and GitHub practice](Git%20GitHub%20Learning%20Lab/README.md)
 
-## My Learning Philosophy
+## Git Workflow
 
-- Learn concepts step by step.
-- Practice by writing code.
-- Understand errors and fix them.
-- Build small projects.
-- Document what I learn.
-- Improve consistently.
+```powershell
+git status
+git branch --show-current
+git pull --rebase origin main
+git switch -c docs-or-feature-name
+git add .
+git diff --staged
+git commit -m "docs: describe the change"
+git push -u origin docs-or-feature-name
+```
 
-## Repository Goals
-
-This repository is a record of my actual learning journey. I will continue adding new exercises, notes, experiments, and projects as I develop my programming and AI skills.
-
----
-
-**Learning every day. Building step by step. Growing through practice.**
+Never commit the local `.venv`, environment files, credentials, generated caches or large build artifacts.
